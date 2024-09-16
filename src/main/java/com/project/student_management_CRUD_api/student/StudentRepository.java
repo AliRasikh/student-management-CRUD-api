@@ -1,8 +1,6 @@
 package com.project.student_management_CRUD_api.student;
-
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
 import java.util.Optional;
 
 @Repository

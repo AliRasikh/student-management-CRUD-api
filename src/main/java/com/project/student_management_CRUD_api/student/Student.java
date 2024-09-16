@@ -1,10 +1,9 @@
 package com.project.student_management_CRUD_api.student;
-
 import jakarta.persistence.*;
-
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Objects;
+
 @Entity
 @Table
 public class Student {
